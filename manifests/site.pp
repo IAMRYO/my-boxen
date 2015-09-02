@@ -58,6 +58,7 @@ node default {
   include hub
   include nginx
   include ohmyzsh
+  include sysctl
   include zsh
   include zshgitprompt
   include postgresql
