@@ -104,6 +104,11 @@ GITHUBTARBALL
     zsh (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-zshgitprompt
+  specs:
+    zshgitprompt (1.0.2)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
   specs:
     inifile (1.4.1)
@@ -143,4 +148,5 @@ DEPENDENCIES
   sudo (= 1.0.0)
   xquartz (= 1.2.1)
   zsh (= 1.0.0)
+  zshgitprompt (= 1.0.2)
 
