@@ -109,6 +109,11 @@ GITHUBTARBALL
     zshgitprompt (1.0.2)
 
 GITHUBTARBALL
+  remote: erivello/puppet-ohmyzsh
+  specs:
+    ohmyzsh (1.0.0)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
   specs:
     inifile (1.4.1)
@@ -137,6 +142,7 @@ DEPENDENCIES
   module_data (= 0.0.4)
   nginx (= 1.4.6)
   nodejs (= 5.0.0)
+  ohmyzsh (= 1.0.0)
   openssl (= 1.0.0)
   osx (= 1.0.0)
   phantomjs (= 3.0.0)
