@@ -57,8 +57,10 @@ node default {
   include git
   include hub
   include nginx
+  include ohmyzsh
   include zsh
   include zshgitprompt
+  include postgresql
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
