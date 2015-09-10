@@ -61,6 +61,7 @@ node default {
   include ohmyzsh
   include postgresql
   include sourcetree
+  include spotify
   include sysctl
   include zsh
   include zshgitprompt
