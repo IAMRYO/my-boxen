@@ -60,6 +60,7 @@ node default {
   include nginx
   include ohmyzsh
   include postgresql
+  include sourcetree
   include sysctl
   include zsh
   include zshgitprompt
