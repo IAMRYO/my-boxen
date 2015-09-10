@@ -56,12 +56,13 @@ node default {
   include dnsmasq
   include git
   include hub
+  include kindle
   include nginx
   include ohmyzsh
+  include postgresql
   include sysctl
   include zsh
   include zshgitprompt
-  include postgresql
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
