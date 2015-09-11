@@ -61,6 +61,7 @@ node default {
   include ohmyzsh
   include postgresql
   include sourcetree
+  include spectacle
   include spotify
   include sysctl
   include zsh
@@ -82,6 +83,7 @@ node default {
   ruby::version { '2.1.0': }
   ruby::version { '2.1.1': }
   ruby::version { '2.1.2': }
+  ruby::version { '2.1.5': }
 
   # common, useful packages
   package {
