@@ -61,7 +61,7 @@ node default {
   include ohmyzsh
   include postgresql
   include sourcetree
-  include spectacle
+  include spectacle 
   include spotify
   include sysctl
   include zsh
