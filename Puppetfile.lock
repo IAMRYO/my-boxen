@@ -1,9 +1,4 @@
 GITHUBTARBALL
-  remote: IAMRYO/puppet-kindle
-  specs:
-    kindle (1.0.2)
-
-GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (3.11.0)
@@ -137,6 +132,11 @@ GITHUBTARBALL
   remote: erivello/puppet-ohmyzsh
   specs:
     ohmyzsh (1.0.0)
+
+GITHUBTARBALL
+  remote: iamryo/puppet-kindle
+  specs:
+    kindle (1.0.2)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
