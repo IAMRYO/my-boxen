@@ -60,8 +60,9 @@ node default {
   include nginx
   include ohmyzsh
   include postgresql
+  include redis
   include sourcetree
-  include spectacle 
+  include spectacle
   include spotify
   include sysctl
   include zsh
