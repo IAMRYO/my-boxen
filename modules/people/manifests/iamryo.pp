@@ -1,4 +1,4 @@
-class people::ryanclark {
+class people::iamryo {
 
   class { 'ruby::build':
     ensure => 'v20150928'
