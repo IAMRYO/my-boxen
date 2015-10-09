@@ -56,7 +56,7 @@ node default {
   include dnsmasq
   include git
   include hub
-  include kindle
+#  include kindle
   include nginx
   include ohmyzsh
   include postgresql
