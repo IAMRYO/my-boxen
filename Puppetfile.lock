@@ -124,6 +124,11 @@ GITHUBTARBALL
     xquartz (1.2.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-zeromq
+  specs:
+    zeromq (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-zsh
   specs:
     zsh (1.0.0)
@@ -189,6 +194,7 @@ DEPENDENCIES
   sudo (= 1.0.0)
   sysctl (= 1.0.1)
   xquartz (= 1.2.1)
+  zeromq (= 1.0.0)
   zsh (= 1.0.0)
   zshgitprompt (= 1.0.2)
 

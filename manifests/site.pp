@@ -60,6 +60,7 @@ node default {
   include nginx
   include ohmyzsh
   include postgresql
+  include phantomjs
   include redis
   include sourcetree
   include spectacle
