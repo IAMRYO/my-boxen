@@ -65,6 +65,7 @@ node default {
   include spectacle
   include spotify
   include sysctl
+  include zeromq
   include zsh
   include zshgitprompt
 
